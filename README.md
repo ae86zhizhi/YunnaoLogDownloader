@@ -1,4 +1,14 @@
 # YunnaoLogDownloader
+# 更新
+7.27 - 支持了云脑的更多URL
+https://cloudbrain.pcl.ac.cn
+http://cloudbrain.pcl.ac.cn
+http://192.168.204.24
+https://192.168.204.24
+http://192.168.204.25
+https://192.168.204.25
+http://192.168.204.26
+https://192.168.204.26
 # 用途
 一次下载最多10000条新版云脑的log
 # 用法
